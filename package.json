@@ -1,0 +1,14 @@
+{
+  "name": "cafe-em-casa",
+  "version": "1.0.0",
+  "description": "Site simples do Café em Casa para teste no Azure",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Café em Casa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
